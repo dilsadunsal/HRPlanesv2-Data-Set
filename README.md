@@ -14,7 +14,7 @@ The number of objects in the images containing aircraft samples from various air
 
 ![hrplanes1](https://user-images.githubusercontent.com/77750296/151970512-3cb16a18-1d9b-42e6-8eb7-ed54b3cd8db3.jpg)
 
-Some image samples from dataset:
+## <div align="left">Image Samples</div>
 
 ![hrplanes](https://user-images.githubusercontent.com/77750296/151931228-ab9baf42-9f09-4981-b0c2-125bde5fc36d.jpg)
 
