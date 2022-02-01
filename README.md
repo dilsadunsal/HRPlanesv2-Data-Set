@@ -32,4 +32,7 @@ For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. Ho
 
 ## <div align="left">License</div>
 
+Use of the Google Earth images must respect the ["Google Earth" terms of use](https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
+All images and their associated annotations can be used for academic purposes only,
+<font color="red"><b> but any commercial use is prohibited.</b></font>
 
