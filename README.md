@@ -5,6 +5,8 @@ This repo contains weights of YOLOv5 and YOLOv4 models trained with HRPlanesv2 h
 
 YOLOv4 trainings have been conducted using Darknet  open source neural network framework (https://github.com/pjreddie/darknet) on a computer with NVIDIA GeForce 2080 Ti graphic card.
 
+![hrplanes](https://user-images.githubusercontent.com/77750296/151931228-ab9baf42-9f09-4981-b0c2-125bde5fc36d.jpg)
+
 
 YOLOv5 trainings have been conducted on the Google Colab platform on the notebook cloned from the link https://github.com/ultralytics/yolov5.
 
