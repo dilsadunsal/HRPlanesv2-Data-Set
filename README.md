@@ -21,6 +21,11 @@ The number of objects in the images containing aircraft samples from various air
 
 </div>
 
+## <div align="left">Weights</div>
+
+For training download  weights-file (162 MB): [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing) 
+
+
 ## <div align="left">Details</div>
 For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. However the HRPlanesv2 is a large dataset that consists of high-resolution Google Earth images. Therefore, the YOLOv5 experiments have been realized as six different experiments, each consisting of 50 epochs.
 
