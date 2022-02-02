@@ -47,5 +47,7 @@ All images and their associated annotations can be used for academic purposes on
 <font color="red"><b> but any commercial use is prohibited.</b></font>
 
 Contact for collabration:
+
 Thesis Author: [Dilsad Unsal](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/)
-[Thesis Advisor: Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
+
+Thesis Advisor: [Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
