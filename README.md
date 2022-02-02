@@ -1,8 +1,8 @@
 # HRPlanesv2 Data Set - High Resolution Satellite Imagery for Aircraft Deteciton
 
-This repo contains the HRPlanesv2 dataset created to be used in [Dilsad Unsal's](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/) master's thesis, who completed her master's degree in ITU Graduate School - Satellite Communications and Remote Sensing Programme [Thesis Advisor: Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) and the YOLOv4 and YOLOv5 weights trained with this dataset.
-
-This repo contains weights of YOLOv5 and YOLOv4 models trained with HRPlanesv2 high resolution satellite imagery.
+This repo contains the HRPlanesv2 high resolution satellite imagery for aircraft detection dataset created to be used in Dilsad Unsal's master's thesis and YOLOv4 and YOLOv5 weights trained with that dataset.
+[Dilsad Unsal's](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/) 
+[Thesis Advisor: Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
 
 We also would like to share the dataset detailed in this repo with researchers who wishes to collaborate with us.
 
