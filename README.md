@@ -22,7 +22,7 @@ For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. Ho
 ## <div align="left">Details About Dataset</div>
 The HRPlanesv2 dataset consists of 2120 satellite images with different sizes all taken from Google Earth.
 Dataset is divided in three parts as 70% train, %20 validation and %10 test. The aircrafts in the train and validation data sets have a proportion of 80% and above.  
-The number of objects in the images containing aircraft samples from various airports in the world is shown in the figure below.
+The number of objects in the images containing aircraft samples from various airports around the world is shown in the figure below.
 
 ![hrplanes1](https://user-images.githubusercontent.com/77750296/151970512-3cb16a18-1d9b-42e6-8eb7-ed54b3cd8db3.jpg)
 
