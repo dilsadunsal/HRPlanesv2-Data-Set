@@ -2,7 +2,7 @@
 
 This repo contains the details of HRPlanesv2 high resolution satellite imagery for aircraft detection dataset created to be used in [Dilsad Unsal's](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/) master's thesis and YOLOv4 and YOLOv5 weights trained with that dataset.
  
-[Thesis Advisor: Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
+
 
 Researchers who are interested could directly download the weights that give 0.82 mAP as a result of YOLOv5 experiments and 0.76 mAP as a result of YOLOv4 experiments.
 
@@ -46,3 +46,6 @@ Use of the Google Earth images must respect the ["Google Earth" terms of use](ht
 All images and their associated annotations can be used for academic purposes only,
 <font color="red"><b> but any commercial use is prohibited.</b></font>
 
+Contact for collabration:
+Thesis Author: [Dilsad Unsal](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/)
+[Thesis Advisor: Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
