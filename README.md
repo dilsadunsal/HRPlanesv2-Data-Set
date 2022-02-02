@@ -2,10 +2,13 @@
 
 This repo contains weights of YOLOv5 and YOLOv4 models trained with HRPlanesv2 high resolution satellite imagery.
 
+We also would like to share the dataset detailed in this repo with researchers who wishes to collaborate with us.
+
 YOLOv4 trainings have been conducted using Darknet  open source neural network framework (https://github.com/pjreddie/darknet) on a computer with NVIDIA GeForce 2080 Ti graphic card.
 
 YOLOv5 trainings have been conducted on the Google Colab platform on the notebook cloned from the link https://github.com/ultralytics/yolov5.
 
+We also provide 
 
 ## <div align="left">HRPlanesv2 Data Set</div>
 The HRPlanesv2 dataset consists of 2120 satellite images with different sizes all taken from Google Earth.
