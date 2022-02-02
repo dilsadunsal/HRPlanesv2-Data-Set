@@ -15,6 +15,8 @@ YOLOv4 trainings have been conducted using Darknet  open source neural network f
 
 YOLOv5 trainings have been conducted on the Google Colab platform on the notebook cloned from the link https://github.com/ultralytics/yolov5.
 
+For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. However the HRPlanesv2 is a large dataset that consists of high-resolution Google Earth images. Therefore, the YOLOv5 experiments have been realized as six different experiments, each consisting of 50 epochs.
+
 
 
 ## <div align="left">Details About Dataset</div>
@@ -35,9 +37,6 @@ The number of objects in the images containing aircraft samples from various air
 
 For training download  weights-file (162 MB): [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing) 
 
-
-## <div align="left">Details</div>
-For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. However the HRPlanesv2 is a large dataset that consists of high-resolution Google Earth images. Therefore, the YOLOv5 experiments have been realized as six different experiments, each consisting of 50 epochs.
 
 
 ## <div align="left">License</div>
