@@ -1,4 +1,6 @@
-# YOLO Weights of HRPlanesv2 Data Set
+# HRPlanesv2 Data Set - High Resolution Satellite Imagery for Aircraft Deteciton
+
+This repo contains the HRPlanesv2 dataset created to be used in [Dilsad Unsal's](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/) thesis, who completed his master's degree in ITU Satellite Communications program, and the YOLOv4 and YOLOv5 weights trained with this dataset.
 
 This repo contains weights of YOLOv5 and YOLOv4 models trained with HRPlanesv2 high resolution satellite imagery.
 
@@ -10,7 +12,7 @@ YOLOv5 trainings have been conducted on the Google Colab platform on the noteboo
 
 We also provide 
 
-## <div align="left">HRPlanesv2 Data Set</div>
+## <div align="left">HRPlanesv2 Data Set - High Resolution Satellite Imagery for Aircraft Deteciton</div>
 The HRPlanesv2 dataset consists of 2120 satellite images with different sizes all taken from Google Earth.
 Dataset is divided in three parts as 70% train, %20 validation and %10 test. The aircrafts in the train and validation data sets have a proportion of 80% and above.  
 The number of objects in the images containing aircraft samples from various airports in the world is shown in the figure below.
