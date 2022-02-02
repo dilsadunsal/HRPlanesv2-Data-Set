@@ -46,7 +46,7 @@ Use of the Google Earth images must respect the ["Google Earth" terms of use](ht
 All images and their associated annotations can be used for academic purposes only,
 <font color="red"><b> but any commercial use is prohibited.</b></font>
 
-Contact for collabration:
+Contact for collaboration:
 
 Thesis Author: [Dilsad Unsal](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/)
 
