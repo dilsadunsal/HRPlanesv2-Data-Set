@@ -4,15 +4,20 @@ This repo contains the details of HRPlanesv2 high resolution satellite imagery f
  
 [Thesis Advisor: Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
 
+Researchers who are interested could directly download the weights that give 0.82 mAP as a result of YOLOv5 experiments and 0.76 mAP as a result of YOLOv4 experiments.
+
 We also would like to share the dataset detailed in this repo with researchers who wishes to collaborate with us.
+
+
+## <div align="left">Details About Experiments</div>
 
 YOLOv4 trainings have been conducted using Darknet  open source neural network framework (https://github.com/pjreddie/darknet) on a computer with NVIDIA GeForce 2080 Ti graphic card.
 
 YOLOv5 trainings have been conducted on the Google Colab platform on the notebook cloned from the link https://github.com/ultralytics/yolov5.
 
-We also provide 
 
-## <div align="left">HRPlanesv2 Data Set - High Resolution Satellite Imagery for Aircraft Deteciton</div>
+
+## <div align="left">Details About Dataset</div>
 The HRPlanesv2 dataset consists of 2120 satellite images with different sizes all taken from Google Earth.
 Dataset is divided in three parts as 70% train, %20 validation and %10 test. The aircrafts in the train and validation data sets have a proportion of 80% and above.  
 The number of objects in the images containing aircraft samples from various airports in the world is shown in the figure below.
