@@ -33,16 +33,16 @@ The number of objects in the images containing aircraft samples from various air
 
 </div>
 
-## <div align="left">Weights</div>
+## <div align="left">Benchmark Analysis and Weights</div>
 
 
 ### GeForce RTX 2080 Ti
 
-| Network Size               | Darknet, FPS (avg) | tkDNN TensorRT FP32, FPS | tkDNN TensorRT FP16, FPS | OpenCV FP16, FPS | tkDNN TensorRT FP16 batch=4, FPS | OpenCV FP16 batch=4, FPS |
+| Network Size               | Patch Size | tkDNN TensorRT FP32, FPS | tkDNN TensorRT FP16, FPS | OpenCV FP16, FPS | tkDNN TensorRT FP16 batch=4, FPS | OpenCV FP16 batch=4, FPS |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|-----------------:|---------------------------------:|-------------------------:|
-|YOLOv4                         | 100                | 116                      | **202**                  | 183              | 423                              | **430**                  |
-|YOLOv5                         | 82                 | 103                      | **162**                  | 159              | 284                              | **294**                  |
-|YOLOv5                         | 69                 | 91                       | 134                      | **138**          | 206                              | **216**                  |
+|YOLOv4                         | 576x576                | 116                      | **202**                  | 183              | 423                              | **430**                  |
+|YOLOv5                         | 576x576                 | 103                      | **162**                  | 159              | 284                              | **294**                  |
+|YOLOv5                         | 640x640                 | 91                       | 134                      | **138**          | 206                              | **216**                  |
 
 
 
