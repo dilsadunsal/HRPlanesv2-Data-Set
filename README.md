@@ -23,7 +23,7 @@ For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. Ho
 
 The HRPlanesv2 dataset consists of 2120 satellite images with different sizes all taken from Google Earth. The size of all images in the dataset is 4800 x 2703 pixels.
 
-All images in the dataset are in ".jpg" and labels are in YOLO ".txt" format
+All images in the dataset are in "**.jpg**" and labels are in YOLO "**.txt**" format
 
 Dataset is divided in three parts as 70% train, %20 validation and %10 test. The aircrafts in the train and validation data sets have a proportion of 80% and above.  
 
