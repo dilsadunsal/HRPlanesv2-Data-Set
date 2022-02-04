@@ -4,7 +4,7 @@ This repo contains the details of HRPlanesv2 high resolution satellite imagery f
  
 
 
-Researchers who are interested could directly download the weights that give 0.82 mAP as a result of YOLOv5 experiments and 0.76 mAP as a result of YOLOv4 experiments.
+Researchers who are interested could directly download the weights that give 0.815 mAP as a result of YOLOv5 experiments and 0.760 mAP as a result of YOLOv4 experiments.
 
 We also would like to share the dataset detailed in this repo with researchers who wishes to collaborate with us.
 
