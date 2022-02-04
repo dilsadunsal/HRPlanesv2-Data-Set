@@ -62,3 +62,13 @@ Contact for collaboration:
 Thesis Author: [Dilsad Unsal](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/)
 
 Thesis Advisor: [Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
+
+## <div align="left">Citation</div>
+
+@mastersthesis{deeplearning,
+    author     =     {Emine Dilşad Ünsal},
+    title     =     {{Aircraft Detection From High Resolution Satellite Images With Convolutional Neural Networks}},
+    school     =     {Istanbul Technical University Graduate School},
+    address     =     {Istanbul, Turkey},
+    year     =     {2021},
+    }
