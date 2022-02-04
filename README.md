@@ -38,11 +38,12 @@ The number of objects in the images containing aircraft samples from various air
 
 ### GeForce RTX 2080 Ti
 
-| Network Size               | Patch Size | tkDNN TensorRT FP32, FPS | tkDNN TensorRT FP16, FPS | OpenCV FP16, FPS | tkDNN TensorRT FP16 batch=4, FPS | OpenCV FP16 batch=4, FPS |
-|:--------------------------:|:------------------:|-------------------------:|-------------------------:|-----------------:|---------------------------------:|-------------------------:|
-|YOLOv4                         | 576x576                | 116                      | **202**                  | 183              | 423                              | **430**                  |
-|YOLOv5                         | 576x576                 | 103                      | **162**                  | 159              | 284                              | **294**                  |
-|YOLOv5                         | 640x640                 | 91                       | 134                      | **138**          | 206                              | **216**                  |
+| Network Size               | Patch Size | tkDNN TensorRT FP32, FPS | tkDNN TensorRT FP16, FPS | OpenCV FP16, FPS | tkDNN TensorRT FP16 batch=4, FPS |
+|:--------------------------:|:------------------:|-------------------------:|-------------------------:|-----------------:|---------------------------------:|
+|YOLOv4                         | 576x576                | 116                      | **202**                  | 183              | 423                              |
+|YOLOv5                         | 576x576                 | 103                      | **162**                  | 159              | 284                              |
+|YOLOv5                         | 640x640                 | 91                       | 134                      | **138**          | 206                              |
+               |
 
 
 
