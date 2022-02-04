@@ -38,14 +38,15 @@ The number of objects in the images containing aircraft samples from various air
 
 ### GeForce RTX 2080 Ti
 
-| Network Size               | Darknet, FPS (avg) | tkDNN TensorRT FP32, FPS | tkDNN TensorRT FP16, FPS | OpenCV FP16, FPS | tkDNN TensorRT FP16 batch=4, FPS batch=4, FPS | tkDNN Speedup |
-|:--------------------------:|:------------------:|-------------------------:|-------------------------:|-----------------:|---------------------------------:|
-|320                         | 100                | 116                      | **202**                  | 183              | 423                                             | **4.3x**      |
-|416                         | 82                 | 103                      | **162**                  | 159              | 284                                              | **3.6x**      |
-|512                         | 69                 | 91                       | 134                      | **138**          | 206                                               | **3.1x**      |
-|608                         | 53                 | 62                       | 103                      | **115**          | 150                                               | **2.8x**      |
-|Tiny 416                    | 443                | 609                      | **790**                  | 773              | **1774**                                            | **3.5x**      |
-|Tiny 416 CPU Core i7 7700HQ | 3.4                | -                        | -                        | 42               | -                                                   | **12x**       |
+| Network Size               | Darknet, FPS (avg) | tkDNN TensorRT FP32, FPS | tkDNN TensorRT FP16, FPS | OpenCV FP16, FPS | tkDNN TensorRT FP16 batch=4, FPS | OpenCV FP16 batch=4, FPS |
+|:--------------------------:|:------------------:|-------------------------:|-------------------------:|-----------------:|---------------------------------:|-------------------------:|
+|320                         | 100                | 116                      | **202**                  | 183              | 423                              | **430**                  |
+|416                         | 82                 | 103                      | **162**                  | 159              | 284                              | **294**                  |
+|512                         | 69                 | 91                       | 134                      | **138**          | 206                              | **216**                  |
+|608                         | 53                 | 62                       | 103                      | **115**          | 150                              | **150**                  |
+|Tiny 416                    | 443                | 609                      | **790**                  | 773              | **1774**                         | 1353                     |
+|Tiny 416 CPU Core i7 7700HQ | 3.4                | -                        | -                        | 42               | -                                | 39                       |
+
 
 For training download  weights-file (162 MB): [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing) 
 
