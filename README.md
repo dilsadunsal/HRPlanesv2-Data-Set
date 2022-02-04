@@ -65,7 +65,8 @@ Thesis Advisor: [Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/)
 
 ## <div align="left">Citation</div>
 
-@mastersthesis{deeplearning,
+
+    @mastersthesis{deeplearning,
 
     author     =     {Emine Dilşad Ünsal},
     
