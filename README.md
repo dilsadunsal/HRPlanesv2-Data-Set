@@ -47,8 +47,6 @@ The number of objects in the images containing aircraft samples from various air
 
 
 
-For training download  weights-file (162 MB): [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing) 
-
 
 
 ## <div align="left">License</div>
