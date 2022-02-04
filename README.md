@@ -42,7 +42,7 @@ The number of objects in the images containing aircraft samples from various air
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|
 |YOLOv4                         | 576x576                | 0.760                      | [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing)                  |
 |YOLOv5                         | 576x576                 | 0.802                      | xxx                 |
-|YOLOv5                         | 640x640                 | **0.815 **                      | xxx                     |
+|YOLOv5                         | 640x640                 |** 0.815**                    | xxx                     |
 
 
 
