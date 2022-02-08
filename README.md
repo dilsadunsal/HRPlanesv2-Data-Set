@@ -40,7 +40,7 @@ The number of objects in the images containing aircraft samples from various mos
 
 ## <div align="left">Benchmark Analysis and Weights</div>
 
-The mAP results from experiments with different input sizes are given in the table below. Researchers could download the weight files directly from the links in the table.
+The mAP results from experiments with different input sizes are given in the table below. Researchers could download the weight files directly from the links on the table.
 
 
 | Model              | Patch   Size | mAP @.50:.05:.95 | Weights |
