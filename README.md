@@ -46,8 +46,8 @@ The number of objects in the images containing aircraft samples from various mos
 | Model              | Patch   Size | mAP @.50:.05:.95 | Weights |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|
 |YOLOv4                         | 576x576                | 0.760                      | [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing)                  |
-|YOLOv5                         | 576x576                 | 0.802                      | xxx                 |
-|YOLOv5                         | 640x640                 | **0.815**                     | xxx                     |
+|YOLOv5                         | 576x576                 | 0.802                      | [yolov5_576_best.pt](https://drive.google.com/file/d/1QsLOXON89D2h_ck67YOKrqUsWRl4U_Mj/view?usp=sharing)                 |
+|YOLOv5                         | 640x640                 | **0.815**                     | [yolov5_640_best.pt](https://drive.google.com/file/d/1W3M-mnhyA8i75UCxfddSWQEs8jM-nMom/view?usp=sharing)                     |
 
 
 
