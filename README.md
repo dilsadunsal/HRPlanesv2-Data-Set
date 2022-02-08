@@ -60,7 +60,7 @@ Use of the Google Earth images must respect the ["Google Earth" terms of use](ht
 All images and their associated annotations can be used for academic purposes only,
 <font color="red"><b> but any commercial use is prohibited.</b></font>
 
-Released under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License]((https://creativecommons.org/licenses/by-nc-nd/4.0/))
+Released under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Contact for collaboration:
 
