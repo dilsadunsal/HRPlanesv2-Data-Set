@@ -64,7 +64,7 @@ Released under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 
 Contact for collaboration:
 
-Thesis Author: [Dilsad Unsal](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/)
+Thesis Author: [M.Sc. Dilsad Unsal](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/)
 
 Thesis Advisor: [Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/) 
 
