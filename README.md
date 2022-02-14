@@ -33,7 +33,8 @@ The number of objects in the images containing aircraft samples from various mos
 
 ## <div align="left">Image Samples</div>
 
-![hrplanesv2](https://user-images.githubusercontent.com/77750296/153004555-f80ed46d-fdee-45a7-8666-0da09084a9fd.jpg)
+
+![Picture2](https://user-images.githubusercontent.com/77750296/153885017-78632f3c-0a35-4720-ae7d-92bddfc9c489.jpg)
 
 
 </div>
