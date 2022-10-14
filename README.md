@@ -29,7 +29,6 @@ All images in the dataset are in "**.jpg**" and labels are in YOLO "**.txt**" fo
 
 Dataset has been split in three parts as 70% train, %20 validation and %10 test. The aircrafts in the images in the train and validation datasets have a percentage of 80 or more in size.  
 
-The number of objects in the images containing aircraft samples from various most crowded airports and airbases around the world is shown in the figure below.
 
 ![hrplanes1](https://user-images.githubusercontent.com/77750296/151970512-3cb16a18-1d9b-42e6-8eb7-ed54b3cd8db3.jpg)
 
