@@ -23,11 +23,11 @@ For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. Ho
 
 The HRPlanesv2 dataset has been created in two steps. First,  [HRPlanes](https://github.com/TolgaBkm/HRPlanes) dataset refined by eliminating half of the images. Remaining half consists images with clear wheather conditions and high object percentage. Secondly, to further improve experiment results, images of airports from many different regions with various uses (civil/military/joint) selected and labeled.
 
-The HRPlanesv2 dataset consists of 2120 satellite images with different sizes all taken from Google Earth. The size of all images in the dataset is 4800 x 2703 pixels.
+The HRPlanesv2 dataset consists of 2120 satellite images with different sizes all taken from Google Earth. A total of 14,335 aircrafts have been labelled. The size of all images in the dataset is 4800 x 2703 pixels.
 
 All images in the dataset are in "**.jpg**" and labels are in YOLO "**.txt**" format
 
-Dataset is divided in three parts as 70% train, %20 validation and %10 test. The aircrafts in the images in the train and validation datasets have a percentage of 80 percent or more in size.  
+Dataset has been split in three parts as 70% train, %20 validation and %10 test. The aircrafts in the images in the train and validation datasets have a percentage of 80 percent or more in size.  
 
 The number of objects in the images containing aircraft samples from various most crowded airports and airbases around the world is shown in the figure below.
 
