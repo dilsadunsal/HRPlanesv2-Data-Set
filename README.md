@@ -27,7 +27,7 @@ The HRPlanesv2 dataset consists of 2120 satellite images with different sizes al
 
 All images in the dataset are in "**.jpg**" and labels are in YOLO "**.txt**" format
 
-Dataset is divided in three parts as 70% train, %20 validation and %10 test. The aircrafts in the train and validation data sets have a proportion of 80% and above.  
+Dataset is divided in three parts as 70% train, %20 validation and %10 test. The aircrafts in the images in the train and validation datasets have a percentage of 80 percent or more in size.  
 
 The number of objects in the images containing aircraft samples from various most crowded airports and airbases around the world is shown in the figure below.
 
