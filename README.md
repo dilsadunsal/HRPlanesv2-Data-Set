@@ -23,7 +23,7 @@ For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. Ho
 
 The HRPlanesv2 dataset has been created in two steps. First,  [HRPlanes](https://github.com/TolgaBkm/HRPlanes) dataset refined by eliminating half of the images. Remaining half consists images with clear wheather conditions and high object percentage. Secondly, to further improve experiment results, images of airports from many different regions with various uses (civil/military/joint) selected and labeled.
 
-The HRPlanesv2 dataset consists of 2120 very high resolution Google Earth images. A total of 14,335 aircrafts have been labelled. 
+The HRPlanesv2 dataset contains 2120 very high resolution Google Earth images. A total of 14,335 aircrafts have been labelled. 
 
 Each image is stored as a "**.jpg**" file of size 4800 x 2703 pixels and each label is stored as YOLO "**.txt**" format.
 
