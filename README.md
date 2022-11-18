@@ -79,5 +79,5 @@ Thesis Advisor: [Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/)
 
 
 People who want to use the dataset should give DOI citation on the Zenodo page.
-
+"Unsal, Dilsad. (2022). HRPlanesv2 - High Resolution Satellite Imagery for Aircraft Detection [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7331974"
     
