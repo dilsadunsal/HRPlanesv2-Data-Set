@@ -4,9 +4,10 @@ This repo contains the details of HRPlanesv2 high resolution satellite imagery f
  
 
 
-Researchers who are interested could directly download the weights that give 0.815 mAP as a result of YOLOv5 experiments and 0.760 mAP as a result of YOLOv4 experiments.
+Researchers who are interested could directly download the weights that give 0.815 mAP as a result of YOLOv5 experiments and 0.760 mAP as a result of YOLOv4 experiments and access the dataset with the [Zenodo Link](https://zenodo.org/record/7331974#.Y3dUlXZByUk).
 
-We also would like to share the dataset detailed in this repo with researchers who wishes to collaborate with us.
+This dataset also published on the IEEE Earth Observation Dataset Platform with the [Link](https://eod-grss-ieee.com/dataset-detail/ak1BclhJbkpuUkh5Uitmd3B5L2hNQT09).
+
 
 
 ## <div align="left">Details About Experiments</div>
@@ -77,11 +78,6 @@ Thesis Advisor: [Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/)
 ## <div align="left">Citation</div>
 
 
-    @mastersthesis{deeplearning,
-    author   =     {Emine Dilşad Ünsal},
-    title    =     {{Aircraft Detection From High Resolution Satellite Images With Convolutional Neural Networks}},
-    school   =     {Istanbul Technical University Graduate School},
-    address  =     {Istanbul, Turkey},
-    year     =     {2021},
-    }
+People who want to use the dataset should give DOI citation on the Zenodo page.
+
     
