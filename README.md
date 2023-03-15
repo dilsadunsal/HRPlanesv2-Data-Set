@@ -50,7 +50,7 @@ The mAP results from experiments with different input sizes are given in the tab
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|
 |YOLOv4                         | 576x576                | 0.97                      | 0.99                      | 0.988                      | 0.760                      | [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing)                  |
 |YOLOv5                         | 576x576                 | 0.994                      | 0.996                      | 0.992                      | 0.802                      | [yolov5_576_best.pt](https://drive.google.com/file/d/1QsLOXON89D2h_ck67YOKrqUsWRl4U_Mj/view?usp=sharing)                 |
-|YOLOv5                         | 640x640                 | **0.815**                     | [yolov5_640_best.pt](https://drive.google.com/file/d/1W3M-mnhyA8i75UCxfddSWQEs8jM-nMom/view?usp=sharing)                     |
+|YOLOv5                         | 640x640                 | 0.996                      | 0.99                      | 0.995                      | **0.815**                     | [yolov5_640_best.pt](https://drive.google.com/file/d/1W3M-mnhyA8i75UCxfddSWQEs8jM-nMom/view?usp=sharing)                     |
 
 
 
