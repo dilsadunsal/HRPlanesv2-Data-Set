@@ -49,19 +49,11 @@ The mAP results from experiments with different input sizes are given in the tab
 | Model              | Patch   Size | P | R | mAP @.50| mAP @.50:.05:.95 | Weights | Optimizer |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|
 |YOLOv4                         | 576x576                | 0.97                      | 0.99                      | 0.988                      | 0.760                      | [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing)                  |N/A                         |
-|YOLOv8-nano                         | 640x640                 | 0.978                      | 0.967                      | 0.988                      | 0.781                     | [yolov8_nano_best.pt](https://drive.google.com/file/d/1ag5bblMu0JyjrjGbHuSIRWezTD-XpST0/view?usp=drive_link)                     |Adam                         |
 |YOLOv5                         | 576x576                 | 0.994                      | 0.996                      | 0.992                      | 0.802                      | [yolov5_576_best.pt](https://drive.google.com/file/d/1QsLOXON89D2h_ck67YOKrqUsWRl4U_Mj/view?usp=sharing)                 |SGD                         |
-|YOLOv8X                         | 640x640                 | 0.979                      | 0.976                      | 0.991                      | 0.807                     | [yolov8X_best.pt](https://drive.google.com/file/d/1IZIlKb1TLvShaLSXekZ0zXNCHv_A-Na1/view?usp=drive_link)                     |Adam                         |
 |YOLOv5                         | 640x640                 | 0.996                      | 0.99                      | 0.995                      | **0.815**                     | [yolov5_640_best.pt](https://drive.google.com/file/d/1W3M-mnhyA8i75UCxfddSWQEs8jM-nMom/view?usp=sharing)                     |SGD                         |
+|YOLOv8-nano                         | 640x640                 | 0.978                      | 0.967                      | 0.988                      | 0.781                     | [yolov8_nano_best.pt](https://drive.google.com/file/d/1ag5bblMu0JyjrjGbHuSIRWezTD-XpST0/view?usp=drive_link)                     |Adam                         |
+|YOLOv8X                         | 640x640                 | 0.979                      | 0.976                      | 0.991                      | 0.807                     | [yolov8X_best.pt](https://drive.google.com/file/d/1IZIlKb1TLvShaLSXekZ0zXNCHv_A-Na1/view?usp=drive_link)                     |Adam                         |
 |YOLOv8-large                         | 640x640                 | 0.981                      | 0.977                      | 0.991                      | **0.816**                     | [yolov8_large_best.pt](https://drive.google.com/file/d/10WA-ZbCC6DpB2mo0L0EtCSpH2bDswPL2/view?usp=drive_link)                     |Adam                         |
-
-
-
-
-
-
-
-
 
 
 
