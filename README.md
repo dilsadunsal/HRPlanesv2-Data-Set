@@ -91,4 +91,4 @@ People who want to use the dataset should give DOI citation on the Zenodo page.
 
 "Unsal, Dilsad. (2022). HRPlanesv2 - High Resolution Satellite Imagery for Aircraft Detection [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7331974"
 
-Citation for [HRPlanes](https://dergipark.org.tr/en/pub/ijeg/issue/77206/1107890)
+Citation Link for HRPlanes [publication link](https://dergipark.org.tr/en/pub/ijeg/issue/77206/1107890)
