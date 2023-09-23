@@ -32,7 +32,8 @@ The dataset has been divided into three parts: 70% for training, 20% for validat
 
 
 
-![graph4](https://github.com/dilsadunsal/HRPlanesv2-Data-Set/assets/77750296/75696048-80bd-4c0c-9283-c6af37d4dfdd)
+![graph3](https://github.com/dilsadunsal/HRPlanesv2-Data-Set/assets/77750296/819a5d97-680d-46e6-bbc9-6575451d81c7)
+
 
 
 
