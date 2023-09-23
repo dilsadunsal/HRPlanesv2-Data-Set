@@ -1,34 +1,33 @@
 # HRPlanesv2 Data Set - High Resolution Satellite Imagery for Aircraft Detection
 
-This repo contains the details of HRPlanesv2 high resolution satellite imagery for aircraft detection dataset created to be used in [Dilsad Unsal's](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/) master's thesis and YOLOv4 and YOLOv5 weights trained with that dataset.
+This repository contains the details of the HRPlanesv2 high-resolution satellite imagery dataset for aircraft detection, created for use in [Dilsad Unsal's](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/) master's thesis, as well as the benchmark results of experiments using YOLOv4, YOLOv5, and YOLOv8, along with the associated weight files.
  
+Researchers who are interested can directly download the weight files from the experiments and access the dataset using the provided [Zenodo Link](https://zenodo.org/record/7331974#.Y3dUlXZByUk).
 
-
-Researchers who are interested could directly download the weights that give 0.815 mAP as a result of YOLOv5 experiments and 0.760 mAP as a result of YOLOv4 experiments and access the dataset with the [Zenodo Link](https://zenodo.org/record/7331974#.Y3dUlXZByUk).
-
-This dataset also published on the IEEE Earth Observation Dataset Platform with the [Link](https://eod-grss-ieee.com/dataset-detail/ak1BclhJbkpuUkh5Uitmd3B5L2hNQT09).
+This dataset is also published on the IEEE Earth Observation Dataset Platform, accessible via the following [Link](https://eod-grss-ieee.com/dataset-detail/ak1BclhJbkpuUkh5Uitmd3B5L2hNQT09).
 
 
 
 ## <div align="left">Details About Experiments</div>
 
-YOLOv4 trainings have been conducted using Darknet  open source neural network framework (https://github.com/pjreddie/darknet) on a computer with NVIDIA GeForce 2080 Ti graphic card.
+YOLOv4 training experiments were conducted using the Darknet open-source neural network framework (https://github.com/pjreddie/darknet) on a computer equipped with an NVIDIA GeForce 2080 Ti graphics card.
 
-YOLOv5 trainings have been conducted on the Google Colab platform on the notebook cloned from the link https://github.com/ultralytics/yolov5.
+YOLOv5 training experiments were conducted on the Google Colab platform using a notebook cloned from the following link: https://github.com/ultralytics/yolov5.
 
 For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. However the HRPlanesv2 is a large dataset that consists of high-resolution Google Earth images. Therefore, the YOLOv5 experiments have been realized as six different experiments, each consisting of 50 epochs.
 
-
+YOLOv8 training experiments were conducted using the Google Colab notebook cloned from the Roboflow platform, accessed via the link https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb.
 
 ## <div align="left">Details About Dataset</div>
 
 The HRPlanesv2 dataset has been created in two steps. First,  [HRPlanes](https://github.com/TolgaBkm/HRPlanes) dataset refined by eliminating half of the images. Remaining half consists images with clear wheather conditions and high object percentage. Secondly, to further improve experiment results, images of airports from many different regions with various uses (civil/military/joint) selected and labeled.
+ 
+The HRPlanesv2 dataset contains 2120 very high-resolution Google Earth images, with a total of 14335 aircraft labeled.
 
-The HRPlanesv2 dataset contains 2120 very high resolution Google Earth images. A total of 14,335 aircrafts have been labelled. 
+Each image is stored as a "**.jpg**" file with dimensions of 4800 x 2703 pixels, and each label is saved in YOLO "**.txt**" format.
 
-Each image is stored as a "**.jpg**" file of size 4800 x 2703 pixels and each label is stored as YOLO "**.txt**" format.
 
-Dataset has been split in three parts as 70% train, %20 validation and %10 test. The aircrafts in the images in the train and validation datasets have a percentage of 80 or more in size.  
+The dataset has been divided into three parts: 70% for training, 20% for validation, and 10% for testing. The aircraft in the images within the training and validation datasets are 80% or larger in size.
 
 
 ![hrplanes1](https://user-images.githubusercontent.com/77750296/151970512-3cb16a18-1d9b-42e6-8eb7-ed54b3cd8db3.jpg)
