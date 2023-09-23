@@ -29,6 +29,9 @@ Each image is stored as a "**.jpg**" file with dimensions of 4800 x 2703 pixels,
 
 The dataset has been divided into three parts: 70% for training, 20% for validation, and 10% for testing. The aircraft in the images within the training and validation datasets are 80% or larger in size.
 
+
+![graph](https://github.com/dilsadunsal/HRPlanesv2-Data-Set/assets/77750296/4797ca13-e9f1-49b1-8df4-7b7c206e6b47)
+
 ![graph4](https://github.com/dilsadunsal/HRPlanesv2-Data-Set/assets/77750296/75696048-80bd-4c0c-9283-c6af37d4dfdd)
 
 
