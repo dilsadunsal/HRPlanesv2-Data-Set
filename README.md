@@ -8,7 +8,7 @@ This dataset is also published on the IEEE Earth Observation Dataset Platform, a
 
 
 
-## <div align="left">Details About Experiments</div>
+## <div align="left">Details About the Experiments</div>
 
 YOLOv4 training experiments were conducted using the Darknet open-source neural network framework (https://github.com/pjreddie/darknet) on a computer equipped with an NVIDIA GeForce 2080 Ti graphics card.
 
@@ -18,7 +18,7 @@ For YOLOv5, the developers recommend experiments between 300 and 1000 epochs. Ho
 
 YOLOv8 training experiments were conducted using the Google Colab notebook cloned from the Roboflow platform, accessed via the link https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb.
 
-## <div align="left">Details About Dataset</div>
+## <div align="left">Details About the Dataset</div>
 
 The HRPlanesv2 dataset has been created in two steps. First,  [HRPlanes](https://github.com/TolgaBkm/HRPlanes) dataset refined by eliminating half of the images. Remaining half consists images with clear wheather conditions and high object percentage. Secondly, to further improve experiment results, images of airports from many different regions with various uses (civil/military/joint) selected and labeled.
  
@@ -40,7 +40,7 @@ The dataset has been divided into three parts: 70% for training, 20% for validat
 
 </div>
 
-## <div align="left">Benchmark Analysis and Weights</div>
+## <div align="left">Benchmark Analysis and Weight Files</div>
 
 The mAP results from experiments with different input sizes are given in the table below. Researchers could download the weight files directly from the links on the table.
 
